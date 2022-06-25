@@ -1,4 +1,6 @@
-# File
+### EX NO : 10
+### DATE  : 08.06.2022
+# <p align="center">File</p>
 
 ## Aim:
  To write a C# program to store the student details in file using structure concept.
@@ -16,6 +18,8 @@ Define a function to write the details of student into the created file.
 Pass the details of student to the function.
 ### Step 6:
 File has been created and written with student details.
+
+<br/><br/><br/><br/>
 
 ## Program:
 ```c#
